@@ -1,0 +1,2 @@
+TotalIssued,TotalVerified,TotalIssueTime(ms),TotalVerifyTime(ms),TotalProcessingTime(ms),AverageTimePerCertificate(ms)
+1000,1001,10411.540,10354.525,20766.066,10.378
